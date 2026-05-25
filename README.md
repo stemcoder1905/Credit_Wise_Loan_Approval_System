@@ -24,7 +24,6 @@
    - IDE files, logs, OS files
 
 ### 📁 Project Structure Ready:
-```
 new_project/
 ├── README.md ✅
 ├── requirements.txt ✅
@@ -32,15 +31,8 @@ new_project/
 ├── app.py (Streamlit app)
 ├── Final_major_project.ipynb (Analysis)
 └── loan_approval_data.csv (Dataset)
-```
 
-### 🚀 Ready for GitHub!
-
-Your **CreditWise AI** project is now production-ready and completely documented. Simply:
+**CreditWise AI** project is now production-ready and completely documented. Simply:
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run app: `streamlit run app.py`
-3. Push to GitHub
 
-Everything follows GitHub best practices! 🎉
-
-Made changes.
